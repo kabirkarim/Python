@@ -1,5 +1,4 @@
-# search for a number x in the tuple
-# using loop
+# search for a number x in the tuple using loop
 num=(1,4,9,16,25,36,49,64,81,100)
 x=int(input("Enter a number to find that it is in the tuple or not: "))
 index=0
